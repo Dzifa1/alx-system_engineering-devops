@@ -1,1 +1,1 @@
-switching users
+shell basics and permissions
